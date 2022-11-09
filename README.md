@@ -3,7 +3,7 @@ Welcome to Ovens-Wallpaper-Repository
 
 ## Table of Contents
 
-- [Bad Cop/Bad Cop](#bad cop-bad cop)
+- [Bad Cop/Bad Cop]
 
 ## Previews
 
